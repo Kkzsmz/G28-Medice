@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1359375" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/drawable/custom_edittext.xml" value="0.1" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.1359375" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1359375" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1359375" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1359375" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/layout/activity_add_medicine.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/layout/activity_export_pdf.xml" value="0.2015625" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/layout/activity_main.xml" value="0.18461538461538463" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/layout/activity_reminder.xml" value="0.152" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/layout/druginteraction.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/layout/history_activity.xml" value="0.2015625" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/layout/login.xml" value="0.1" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/layout/signp.xml" value="0.1" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/layout/signup.xml" value="0.264" />
+        <entry key="..\:/Users/Kent/AndroidStudioProjects/Medi/app/src/main/res/menu/bottom_menu.xml" value="0.2015625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="drug1EditText" type="id" />
+    <item name="resultTextView" type="id" />
+    <item name="drug2EditText" type="id" />
+    <item name="checkButton" type="id" />
+</resources>
